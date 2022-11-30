@@ -151,7 +151,7 @@ Se necesita una base de datos por defecto hay una que se llama postgres.
 
 > CREATE USER = CREATE ROLE + LOGIN PERMISSION
 
-```js
+```postgres
     CREATE USER user_name PASSWORD 'password_name';
 ```
 
